@@ -1,1 +1,2 @@
-# Mahee
+# synchronousBallMovement
+Ball moving synchronously
